@@ -1,0 +1,63 @@
+       * {
+            box-sizing: border-box;
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            font-family: "Inter", sans-serif;
+            background: #f9f9f9;
+        }
+
+        .hero-title {
+            font-size: clamp(5rem, 18vw, 15rem);
+            line-height: .8;
+            font-weight: 800;
+            letter-spacing: -0.07em;
+        }
+
+        .product-card {
+            transition: transform .25s ease;
+        }
+
+        .product-card:hover {
+            transform: translateY(-4px);
+        }
+
+        .product-image {
+            transition: transform .3s ease;
+        }
+
+        .product-card:hover .product-image {
+            transform: scale(1.05);
+        }
+
+        .hide {
+            display: none !important;
+        }
+
+        .cart-drawer {
+            transition: transform .3s ease;
+        }
+
+        .cart-overlay {
+            transition: opacity .3s ease;
+        }
+
+        @media (max-width: 768px) {
+            .desktop-nav {
+                display: none;
+            }
+
+            .hero-search {
+                flex-direction: column;
+                gap: 10px;
+            }
+
+            .hero-search > * {
+                width: 100%;
+                margin: 0;
+            }
+        }
