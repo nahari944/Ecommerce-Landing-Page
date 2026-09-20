@@ -24,7 +24,7 @@
 
 <br><br>
 
-**🟣 PREMIUM UI   •   🔵 RESPONSIVE   •   🩷 INTERACTIVE**
+
 
 <br>
 
