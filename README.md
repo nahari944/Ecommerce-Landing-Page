@@ -1,15 +1,37 @@
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   ██████╗ ███████╗███╗   ███╗ ██████╗     🌈   🛍️   🚀                     ║
-║  ██╔════╝ ██╔════╝████╗ ████║██╔═══██╗                                       ║
-║  ██║  ███╗█████╗  ██╔████╔██║██║   ██║       ✨  D E M O  ✨                ║
-║  ██║   ██║██╔══╝  ██║╚██╔╝██║██║   ██║                                       ║
-║  ╚██████╔╝███████╗██║ ╚═╝ ██║╚██████╔╝       🛒  💻  ⭐  🔥                ║
-║   ╚═════╝ ╚══════╝╚═╝     ╚═╝ ╚═════╝                                        ║
-║                                                                              ║
-║                  🟣  L I V E   D E M O  🟣                                  ║ 
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+<div align="center">
+
+# ⚡ D E M O ⚡
+
+<br>
+
+## 🟣 <font color="#8B5CF6">S T U F F S U S</font>   <font color="#00E5FF">S H O P</font> 🟣
+
+### 🚀 <font color="#00E5FF">L I V E   D E M O</font> 🚀
+
+<br>
+
+**━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
+
+### 🛍️   <font color="#A855F7">E X P L O R E</font>   •   🛒   <font color="#06B6D4">S H O P</font>   •   ⚡   <font color="#EC4899">E N J O Y</font>
+
+<br>
+
+<a href="YOUR-DEMO-LINK-HERE">
+
+<img src="https://img.shields.io/badge/🚀%20OPEN%20LIVE%20DEMO-8B5CF6?style=for-the-badge&logoColor=white" alt="Open Live Demo">
+
+</a>
+
+<br><br>
+
+**🟣 PREMIUM UI   •   🔵 RESPONSIVE   •   🩷 INTERACTIVE**
+
+<br>
+
+**━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
+
+</div>
+
 🛍️ Stuffsus Shop
 
 Stuffsus Shop is a responsive e-commerce frontend website built with HTML, Tailwind CSS, and JavaScript.
@@ -38,8 +60,6 @@ stuffsus-shop/
 🚀 Run Locally
 
 Clone the repository:
-
-git clone https://github.com/YOUR-USERNAME/stuffsus-shop.git
 
 Open the project folder:
 
